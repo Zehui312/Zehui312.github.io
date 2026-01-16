@@ -75,8 +75,8 @@ biomedical fields, with publications cited by the international scientific commu
 
 - **Peer-reviewed publications:** 60+ (14 first-author; 9 corresponding-author)  
 - **Total citations:** 900+ (Google Scholar)  
-- **Selected peer-reviewed publications** in *pathogen genomics and infectious disease research* are available at:  
-  https://scholar.google.com/citations?user=KtpXT3EAAAAJ  
+* A list of selected peer-reviewed publications in pathogen genomics and infectious disease research is available on
+  https://scholar.google.com/citations?user=KtpXT3EAAAAJ* 
 - **Patents:** 2 granted Chinese invention patents in pathogen detection and molecular diagnostics  
 - **Editorial service:** Guest Editor for international journals (*Genes*, *Pathogens*)
 
