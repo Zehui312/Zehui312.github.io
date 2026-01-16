@@ -21,7 +21,7 @@ I am a biomedical scientist with research interests in **pathogen genomics**, **
 My research focuses on genome-based characterization of viruses and bacteria, comparative genomics, and the application of bioinformatics and high-throughput sequencing data to infectious disease research and public health–related studies.
 
 I have contributed to peer-reviewed research in pathogen genomics and related biomedical fields, with publications cited by the international scientific community.  
-<a href="https://scholar.google.com/citations?user=YOUR_ID_HERE">
+<a href="https://scholar.google.com/citations?user=user=KtpXT3EAAAAJ">
 Google Scholar Profile
 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
@@ -109,14 +109,3 @@ Google Scholar Profile
 - **Genomics & Bioinformatics:** RNA-seq, WGS/WES, comparative genomics, phylogenetics  
 - **Data Analysis:** statistical analysis, visualization, multi-omics integration  
 - **Tools:** Git, GitHub, Conda, bioinformatics pipelines  
-
----
-
-# 🌐 Links
-
-- 🌍 Personal Website: [https://zehui312.github.io](https://zehui312.github.io)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/zehui-yu-4b4086332/](https://www.linkedin.com/in/zehui-yu-4b4086332/)  
-
----
-
-*This website is intended to share research activities, publications, and computational work related to my scientific research.*
